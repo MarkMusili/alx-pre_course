@@ -21,4 +21,4 @@ My first readme
 *ChangeD branch to main*
 1.UpdateD the file bash/alx by replacing echo "ALX" with echo "ALX School is so cool!"
 2.DeleteD the directory js
-3.Commited the changes (message: “Hot fix”) and push to the origin
+3.Commited the changes (message: “Hot fix”) and push to the origin 
